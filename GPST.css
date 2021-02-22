@@ -1,0 +1,133 @@
+/*--------Title---------*/
+
+/*--------General-------*/
+h1
+{
+    color: #FFFFFF;
+    margin-bottom: 0;
+    font-family: serif;
+    margin-top: 0;
+}
+h2
+{
+  color: #00664D;
+  font-family: serif;
+  text-shadow: 1px;
+  shadow: #CCCCCC;
+}
+h3
+{
+  font-family: serif;
+}
+a
+{
+  font-weight: bold;
+  text-decoration: none;
+}
+/*--------Header--------*/
+
+header
+{
+    background-color: #00B386;
+    /* background-image: url("images/pasture.png");
+    line-height: 400%;
+    text-indent: 1em;
+*/
+  background-position: right;
+  background-repeat: no-repeat;
+  text-align: left;
+  height: 60px;
+  text-align: center;
+  padding-top: 15px;
+
+
+
+}
+/*--------Body----------*/
+body
+{
+
+/*  background: #FFFFFF;
+*/
+  background-image: url("images/sky.png");
+  background-repeat: no-repeat;
+  color: #666666;
+  font-family: sans-serif;
+}
+ul
+{
+ list-style-image: url("images/marker.gif");
+}
+nav
+{
+  background: #FFFFFF;
+  text-align: center;
+  padding: 10px;
+}
+dt
+{
+  color: #00664D;
+}
+main
+{
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    display: block;
+}
+
+#wrapper
+{
+    margin:auto;
+    width: 80%;
+    background-color: #FFFFFF;
+    min-width: 900px;
+    max-width: 2050px;
+    box-shadow: 4px #133926;
+}
+#heroHome
+{
+  height: 300px;
+  background-image: url("images/sunsetHorse.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#heroBoard
+{
+  height: 300px;
+  background-image: url("images/fenceline.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#heroTraining
+{
+  height: 300px;
+  background-image: url("images/BayBella.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+/*--------Footer--------*/
+footer
+{
+  font-size: 75%;
+  font-style: italic;
+  font-family: serif;
+  text-align: center;
+  padding: 15px;
+}
+
+/*------Class ----- */
+.barn
+{
+  color: #70DBDB;
+  font-weight: bold;
+}
+
+#contact
+{
+  font-size: 90%;
+}
+.listTitle
+{
+  font-weight: bold;
+}
