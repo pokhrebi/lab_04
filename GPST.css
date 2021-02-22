@@ -12,8 +12,8 @@ h2
 {
   color: #00664D;
   font-family: serif;
-  text-shadow: 1px;
-  shadow: #CCCCCC;
+  text-shadow: 1px 1px #CCCCCC;
+
 }
 h3
 {
@@ -83,7 +83,7 @@ main
     background-color: #FFFFFF;
     min-width: 900px;
     max-width: 2050px;
-    box-shadow: 4px #133926;
+    box-shadow: 4px 4px #133926;
 }
 #heroHome
 {
